@@ -1,0 +1,6 @@
+C:\Users\gabriel.whitecube\source\repos\ExemploAplicacaoWeb\ExemploAplicacaoWeb.Business\bin\Debug\netcoreapp2.2\ExemploAplicacaoWeb.Business.deps.json
+C:\Users\gabriel.whitecube\source\repos\ExemploAplicacaoWeb\ExemploAplicacaoWeb.Business\bin\Debug\netcoreapp2.2\ExemploAplicacaoWeb.Business.dll
+C:\Users\gabriel.whitecube\source\repos\ExemploAplicacaoWeb\ExemploAplicacaoWeb.Business\obj\Debug\netcoreapp2.2\ExemploAplicacaoWeb.Business.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.whitecube\source\repos\ExemploAplicacaoWeb\ExemploAplicacaoWeb.Business\obj\Debug\netcoreapp2.2\ExemploAplicacaoWeb.Business.AssemblyInfoInputs.cache
+C:\Users\gabriel.whitecube\source\repos\ExemploAplicacaoWeb\ExemploAplicacaoWeb.Business\obj\Debug\netcoreapp2.2\ExemploAplicacaoWeb.Business.AssemblyInfo.cs
+C:\Users\gabriel.whitecube\source\repos\ExemploAplicacaoWeb\ExemploAplicacaoWeb.Business\obj\Debug\netcoreapp2.2\ExemploAplicacaoWeb.Business.csprojAssemblyReference.cache
